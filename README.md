@@ -345,8 +345,7 @@ When you press **J**, **T**, or **L**, a text input dialog appears at the bottom
 
 # Demos and Result
 
-<video src="https://github.com/Thyme2303/Kinematic/blob/main/assets/manipulability_demo.mp4
-" controls width="800"></video>
+<video src="https://github.com/user-attachments/assets/e85d8365-7131-4c39-8f57-3bd4d7d692dd" controls width="800"></video>
 
 The simulation provides real-time visualization of:
 
@@ -393,3 +392,4 @@ The interface updates at 60 FPS for smooth visualization and responsive controls
 - **Documentation**: Add detailed API documentation and usage examples
 
 # Kinematic
+
