@@ -391,5 +391,6 @@ The interface updates at 60 FPS for smooth visualization and responsive controls
 - **Performance Optimization**: Optimize workspace sampling for larger datasets
 - **Documentation**: Add detailed API documentation and usage examples
 
-# Kinematic
+# Pawarit Piamprecha 65340500036
+
 
