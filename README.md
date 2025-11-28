@@ -345,7 +345,8 @@ When you press **J**, **T**, or **L**, a text input dialog appears at the bottom
 
 # Demos and Result
 
-<video src="assets/manipulability_demo.mp4" controls width="800"></video>
+<video src="https://github.com/Thyme2303/Kinematic/blob/main/assets/manipulability_demo.mp4
+" controls width="800"></video>
 
 The simulation provides real-time visualization of:
 
@@ -390,4 +391,5 @@ The interface updates at 60 FPS for smooth visualization and responsive controls
 - **Advanced IK Methods**: Implement other IK solvers (e.g., analytical IK, gradient descent variants)
 - **Performance Optimization**: Optimize workspace sampling for larger datasets
 - **Documentation**: Add detailed API documentation and usage examples
+
 # Kinematic
